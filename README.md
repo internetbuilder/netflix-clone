@@ -1,4 +1,4 @@
-# Netflix Clone
+## Netflix Clone
 
 ![Netflix Clone](/public/static/netflix-clone-preview.png)
 
